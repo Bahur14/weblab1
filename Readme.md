@@ -3,6 +3,7 @@
 Інформація про автора
 Бахурінський Олександр Дмитрович
 КВ-52мп
+Telegram: @bahur14
 
 Про проєкт
 Серверний Backend-додаток «To-Do List» API, розроблений на базі Django та Django REST Framework (DRF)
